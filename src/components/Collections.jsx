@@ -8,17 +8,17 @@ function Collections() {
     {
       title: "Royal Heritage",
       description: "Tradición y modernidad en perfecta armonía",
-      image: "/src/assets/modelname-img.png"
+      image: "/assets/modelname-img.png"
     },
     {
       title: "The Gilded Hour",
       description: "Sofisticación refinada para momentos especiales",
-      image: "/src/assets/thegildedhour-image.png"
+      image: "/assets/thegildedhour-image.png"
     },
     {
       title: "Capsule",
       description: "Exclusividad para ocasiones extraordinarias",
-      image: "/src/assets/modelwhite-img.png"
+      image: "/assets/modelwhite-img.png"
     }
   ]
 

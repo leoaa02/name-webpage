@@ -29,7 +29,7 @@ function Featured() {
           <div className="featured-image">
             <div className="image-wrapper">
               <img
-                src="/src/assets/blackpose-img.png"
+                src="/assets/blackpose-img.png"
                 alt="Featured Collection"
               />
               <div className="image-border"></div>
