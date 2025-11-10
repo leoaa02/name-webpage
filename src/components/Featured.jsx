@@ -29,7 +29,7 @@ function Featured() {
           <div className="featured-image">
             <div className="image-wrapper">
               <img
-                src="https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/src/assets/blackpose-img.png"
                 alt="Featured Collection"
               />
               <div className="image-border"></div>

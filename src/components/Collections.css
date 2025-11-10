@@ -1,9 +1,8 @@
 .collections {
   padding: 8rem 0;
-  background: var(--navy);
+  background: #0B1C35 !important;
   position: relative;
 }
-
 .collections::before {
   content: '';
   position: absolute;
@@ -11,7 +10,7 @@
   left: 0;
   right: 0;
   height: 1px;
-  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  background: #0B1C35;
 }
 
 .section-header {

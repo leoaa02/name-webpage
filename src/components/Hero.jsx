@@ -42,8 +42,8 @@ function Hero() {
         <div className="container">
           <div className="hero-text">
             <h1 className="hero-title">
-              <span className="title-line">Elegancia</span>
-              <span className="title-line">Atemporal</span>
+              <span className="title-line">Donde la elegancia</span>
+              <span className="title-line">Lleva tu nombre</span>
             </h1>
             <p className="hero-subtitle">Colección Exclusiva 2025</p>
             <button className="cta-button">

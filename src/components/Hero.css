@@ -5,7 +5,10 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: linear-gradient(135deg, var(--dark-navy) 0%, var(--navy) 100%);
+  background-image: url("/src/assets/backgroundname.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .hero-pattern {

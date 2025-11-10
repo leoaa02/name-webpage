@@ -6,19 +6,19 @@ function Collections() {
 
   const collections = [
     {
-      title: "Noir Élégance",
-      description: "Sofisticación refinada para momentos especiales",
-      image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800"
-    },
-    {
       title: "Royal Heritage",
       description: "Tradición y modernidad en perfecta armonía",
-      image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "/src/assets/modelname-img.png"
     },
     {
-      title: "Midnight Luxury",
+      title: "The Gilded Hour",
+      description: "Sofisticación refinada para momentos especiales",
+      image: "/src/assets/thegildedhour-image.png"
+    },
+    {
+      title: "Capsule",
       description: "Exclusividad para ocasiones extraordinarias",
-      image: "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "/src/assets/modelwhite-img.png"
     }
   ]
 
