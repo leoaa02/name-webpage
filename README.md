@@ -29,7 +29,7 @@ La web actúa como una **plataforma de presentación de productos, concepto de m
 - **Canvas** — prototipo y diseño visual  
 - **GitHub Pages / Vercel** — despliegue del sitio  
 
----
 
-## 📂 Estructura del Proyecto
+
+
 
